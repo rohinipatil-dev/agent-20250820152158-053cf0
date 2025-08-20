@@ -1,0 +1,7 @@
+InstructorEmbedding
+bs4
+numpy
+openai
+requests
+streamlit
+torch
